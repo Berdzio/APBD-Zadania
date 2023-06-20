@@ -1,0 +1,15 @@
+E:\APBD\cwiczenie2\cwiczenie2\bin\Debug\net7.0\cwiczenie2.exe
+E:\APBD\cwiczenie2\cwiczenie2\bin\Debug\net7.0\cwiczenie2.deps.json
+E:\APBD\cwiczenie2\cwiczenie2\bin\Debug\net7.0\cwiczenie2.runtimeconfig.json
+E:\APBD\cwiczenie2\cwiczenie2\bin\Debug\net7.0\cwiczenie2.dll
+E:\APBD\cwiczenie2\cwiczenie2\bin\Debug\net7.0\cwiczenie2.pdb
+E:\APBD\cwiczenie2\cwiczenie2\obj\Debug\net7.0\cwiczenie2.csproj.AssemblyReference.cache
+E:\APBD\cwiczenie2\cwiczenie2\obj\Debug\net7.0\cwiczenie2.GeneratedMSBuildEditorConfig.editorconfig
+E:\APBD\cwiczenie2\cwiczenie2\obj\Debug\net7.0\cwiczenie2.AssemblyInfoInputs.cache
+E:\APBD\cwiczenie2\cwiczenie2\obj\Debug\net7.0\cwiczenie2.AssemblyInfo.cs
+E:\APBD\cwiczenie2\cwiczenie2\obj\Debug\net7.0\cwiczenie2.csproj.CoreCompileInputs.cache
+E:\APBD\cwiczenie2\cwiczenie2\obj\Debug\net7.0\cwiczenie2.dll
+E:\APBD\cwiczenie2\cwiczenie2\obj\Debug\net7.0\refint\cwiczenie2.dll
+E:\APBD\cwiczenie2\cwiczenie2\obj\Debug\net7.0\cwiczenie2.pdb
+E:\APBD\cwiczenie2\cwiczenie2\obj\Debug\net7.0\cwiczenie2.genruntimeconfig.cache
+E:\APBD\cwiczenie2\cwiczenie2\obj\Debug\net7.0\ref\cwiczenie2.dll

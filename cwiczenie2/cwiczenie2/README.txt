@@ -1,0 +1,1 @@
+plik log.txt jak i wyksportowany json znajdują się w \bin\Debug\net7.0
